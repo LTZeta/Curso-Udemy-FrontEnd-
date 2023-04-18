@@ -1,0 +1,6 @@
+{
+    "editor.hideCursorInOverviewRuler": false,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": false,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": false,
+    "angular.enable-strict-mode-prompt": false
+}
